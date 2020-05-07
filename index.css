@@ -245,8 +245,8 @@ header ul li a.active:before{
     .container{
         padding-top: 20px;
         padding-bottom: 20px;
-        padding-right: 100px;
-        padding-left: 100px;
+        padding-right: 50rem;
+        padding-left: 50rem;
     }
     .container::before{
         display: none;
