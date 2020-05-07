@@ -244,7 +244,7 @@ header ul li a.active:before{
 {
     .container{
        padding: 20px 50px;
-       margin-left:50px ;
+       margin-right:50px ;
     }
     .container::before{
         display: none;
