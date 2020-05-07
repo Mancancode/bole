@@ -331,6 +331,7 @@ header ul li a.active:before{
 @media (max-width: 767px){
     .container{
         padding: 20px 30px;
+        margin-right: 50px;
     }
     .menuIcon{
         right: 30px;
