@@ -254,7 +254,6 @@ header ul li a.active:before{
     .controls .cont .fa {
         filter: invert(0);
         color: #000;
-        padding-left: 50px;
     }
     .controls .cont .fa:hover{
         color: #78ff00;
@@ -307,7 +306,7 @@ header ul li a.active:before{
     .menuIcon{
         display: initial;
         position: fixed;
-        padding-left: 50px;
+        right: 50px;
         cursor: pointer;
         padding: 8px;
         z-index: 100000;
