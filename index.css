@@ -334,9 +334,12 @@ header ul li a.active:before{
     }
     .menuIcon{
         right: 30px;
+        padding: 20px 30px;
+
     }
     .icons .controls li img{
         max-width: 40px;
+        padding: 20px 30px;
     }
 }
 
