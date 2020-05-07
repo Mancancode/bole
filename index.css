@@ -335,13 +335,11 @@ header ul li a.active:before{
     }
     .menuIcon{
         right: 30px;
-        margin-right: 50px;
 
 
     }
     .icons .controls li img{
         max-width: 40px;
-        margin-right: 50px;
     }
 }
 
