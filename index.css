@@ -243,7 +243,7 @@ header ul li a.active:before{
 @media (max-width: 992px)
 {
     .container{
-        padding: 20px 80px ;
+        padding: 20px 50px ;
     }
     .container::before{
         display: none;
@@ -254,6 +254,7 @@ header ul li a.active:before{
     .controls .cont .fa {
         filter: invert(0);
         color: #000;
+        padding-left: 50px;
     }
     .controls .cont .fa:hover{
         color: #78ff00;
@@ -306,7 +307,7 @@ header ul li a.active:before{
     .menuIcon{
         display: initial;
         position: fixed;
-        right: 50px;
+        padding-left: 50px;
         cursor: pointer;
         padding: 8px;
         z-index: 100000;
@@ -330,11 +331,11 @@ header ul li a.active:before{
 
 @media (max-width: 767px){
     .container{
-        padding: 20px 80px;
+        padding: 20px 30px;
     }
     .menuIcon{
         right: 30px;
-        
+
 
     }
     .icons .controls li img{
