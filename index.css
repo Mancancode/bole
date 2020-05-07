@@ -330,16 +330,15 @@ header ul li a.active:before{
 
 @media (max-width: 767px){
     .container{
-        padding: 20px 30px;
+        padding: 20px 80px;
     }
     .menuIcon{
         right: 30px;
-        padding-left: 80px;
+        
 
     }
     .icons .controls li img{
         max-width: 40px;
-         padding-left: 80px;
     }
 }
 
