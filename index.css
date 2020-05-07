@@ -1,6 +1,6 @@
 body{
     margin: 0;
-    padding: 20px 30px;
+    padding: 0;
     font-family: 'Poppins', sans-serif;
 
 
@@ -332,15 +332,7 @@ header ul li a.active:before{
     .container{
         padding: 20px 30px;
     }
-    .menuIcon{
-        right: 30px;
-        padding: 20px 30px;
-
-    }
-    .icons .controls li img{
-        max-width: 40px;
-        padding: 20px 30px;
-    }
+    
 }
 
 
