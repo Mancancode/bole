@@ -243,7 +243,10 @@ header ul li a.active:before{
 @media (max-width: 992px)
 {
     .container{
-        padding: 20px 50px ;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        padding-right: 100px;
+        padding-left: 100px;
     }
     .container::before{
         display: none;
